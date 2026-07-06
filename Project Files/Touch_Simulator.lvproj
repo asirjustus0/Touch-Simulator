@@ -24,7 +24,6 @@
 		<Item Name="Windows" Type="Folder" URL="../../Source Code/Windows">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Temp.vi" Type="VI" URL="../../Source Code/Temp.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
